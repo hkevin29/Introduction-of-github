@@ -39,9 +39,10 @@
 &emsp;&emsp;（注：github更新后主分支由master更名为main，更新默认分支，或删除main分支）  
 ## 四.Windows下使用git上传本地项目
 #### 1.在windows某盘创建空文件夹并命名，如“Introduction of github”。  
-[图片1](https://github.com/hkevin29/Introduction-of-github/blob/master/picture/intro.jpg)  
+[图片1](picture/intro.jpg)  
 #### 2.添加需要上传的项目如“hellogithub.txt”，建议其中有“README.md”。  
 #### 3.在文件夹中，右键点击“Git Bash”，输入下列命令创建仓库。  
+[图片1](picture/GitBash.jpg)  
 `$ git init`  
 #### 4.将本地文件添加到暂存区。  
 `$ git add .`  
