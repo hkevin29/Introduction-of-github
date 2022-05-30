@@ -57,7 +57,7 @@
 `$ git remote add origin URL`  
 例如本文URL为：git@github.com:hkevin29/Introduction-of-github.git  
 此时可以用git remote -v查看结果  
-#### 7.将本地仓库内容上传到远程仓库。因是个人项目，没有多人协作，直接push；若多人协作则需要先git pull origin maste，”commit-pull-push“三连的操作方式防止覆盖。  
-`$ git push origin maste`  
+#### 7.将本地仓库内容上传到远程仓库。因是个人项目，没有多人协作，直接push；若多人协作则需要先git pull origin master，”commit-pull-push“三连的操作方式防止覆盖。  
+`$ git push origin master`  
   
 
